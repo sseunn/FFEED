@@ -1,0 +1,129 @@
+{
+  "id": 1,
+  "bigcategory": "가구",
+  "sub_category": [
+    {
+      "midcategory": "의자",
+      "category_id": 1,
+      "subcategories": [
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Ant chair",
+          "img": "/image/chair1.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 1
+        },
+        {
+          "brand": "프리츠한센",
+          "Eng_name": "Bodystuhl",
+          "img": "/image/chair2.jpg",
+          "provider": "코트 옷걸이 벤치",
+          "sub_category_id": 2
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Czech chair",
+          "img": "/image/chair3.jpg",
+          "provider": "해머체어",
+          "sub_category_id": 3
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Cafestuhl",
+          "img": "/image/chair4.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 4
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "N.0",
+          "img": "/image/chair5.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 5
+        }
+      ]
+    },
+    {
+      "midcategory": "테이블",
+      "category_id": 2,
+      "subcategories": [
+        {
+          "brand": "프리츠한센",
+          "Eng_name": "Allegory Desk",
+          "img": "/image/table1.jpg",
+          "provider": "다이닝테이블",
+          "sub_category_id": 1
+        },
+        {
+          "brand": "프리츠한센",
+          "Eng_name": "Säule",
+          "img": "/image/table2.jpg",
+          "provider": "다이닝테이블",
+          "sub_category_id": 2
+        },
+        {
+          "brand": "프리츠한센",
+          "Eng_name": "Arch Dining Table",
+          "img": "/image/table3.jpg",
+          "provider": "다이닝테이블",
+          "sub_category_id": 3
+        },
+        {
+          "brand": "프리츠한센",
+          "Eng_name": "Rehbeintisch",
+          "img": "/image/table4.jpg",
+          "provider": "다이닝테이블",
+          "sub_category_id": 4
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Sherry",
+          "img": "/image/table5.jpg",
+          "provider": "다이닝테이블",
+          "sub_category_id": 5
+        }
+      ]
+    },
+    {
+      "midcategory": "암체어/라운지체어",
+      "category_id": 3,
+      "subcategories": [
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Wiener Stuhl",
+          "img": "/image/armchair1.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 1
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Wiener Stuhl",
+          "img": "/image/armchair1.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 2
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Bistrotstuhl",
+          "img": "/image/armchair1.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 3
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Beaulieu",
+          "img": "/image/armchair1.jpg",
+          "provider": "앤트체어",
+          "sub_category_id": 4
+        },
+        {
+          "brand": "게브르더 토넷 비엔나",
+          "Eng_name": "Czech armchair",
+          "img": "/image/armchair1.jpg",
+          "provider": "해머체어",
+          "sub_category_id": 5
+        }
+      ]
+    }
+  ]
+}
